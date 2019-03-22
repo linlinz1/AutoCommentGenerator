@@ -1,0 +1,3 @@
+examples/encode_hevc_vdenc_packet_g12.h
+examples/encode_hevc_vdenc_packet_g12.cpp
+examples/decode_hevc_pipeline.h
